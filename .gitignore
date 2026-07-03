@@ -13,6 +13,13 @@ __pycache__/
 # 아이콘 바이너리
 *.ico
 
+# 폰트 파일 (시스템 폰트, 용량 큼)
+*.ttf
+*.otf
+
+# Windows 바로가기
+*.lnk
+
 # OS 파일
 .DS_Store
 Thumbs.db
